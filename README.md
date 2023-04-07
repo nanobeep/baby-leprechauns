@@ -4,7 +4,6 @@ We all know the truth: A.I. is powered by Baby Leprechauns. The signs are everyw
 
 ![Chrome Extension: A.I. to Baby Leprechauns Replacer](icon128.png)
 
-
 ## Installation
 
 1. Clone this repository or download the source code as a ZIP file.
@@ -13,13 +12,19 @@ We all know the truth: A.I. is powered by Baby Leprechauns. The signs are everyw
 git clone https://github.com/yourusername/baby-leprechauns-replacer.git
 ```
 
-2. Open the Chrome browser and navigate to `chrome://extensions`.
+2. Open the Chrome browser and navigate to `chrome://extensions`
 
 3. Enable _Developer mode_ by toggling the switch at the top of the page.
 
 4. Click the _Load unpacked_ button and select the folder containing the cloned or unzipped source code.
 
 5. The "A.I. to Baby Leprechauns Replacer" extension is now installed and ready for use.
+
+## Screenshot
+
+Transformed "Artificial Intelligence" Wikipedia Page:
+
+<img src="screenshot.png" alt="Screenshot" width="400" />
 
 ## Credits and License
 
