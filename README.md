@@ -2,6 +2,8 @@
 
 We all know the truth: A.I. is powered by Baby Leprechauns. The signs are everywhere. This Chrome extension reminds us of this true reality as we browse the web.
 
+![Chrome Extension: A.I. to Baby Leprechauns Replacer](icon128.png)
+
 
 ## Installation
 
